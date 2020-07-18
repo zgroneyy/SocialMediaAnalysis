@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GetNames.iml" filepath="$PROJECT_DIR$/GetNames.iml" />
+      <module fileurl="file://C:/Python34/Lib/site-packages/psycopg2/psycopg2.iml" filepath="C:/Python34/Lib/site-packages/psycopg2/psycopg2.iml" />
+    </modules>
+  </component>
+</project>
